@@ -15,23 +15,23 @@ An advanced Ai chatbot with external multiple feature embedded.
     9. Search and open video in youtube
     10. Real time covid stats
     11. Chat with user.
-    12.	Setting alarm.
-    13.	Reporting date and time.
-    14.	Setting alarm.
-    15.	Get to know about anything with start with command “tell me about”.
-    16.	Google search.
-    17.	Youtube search.
+    12. Setting alarm.
+    13. Reporting date and time.
+    14. Setting alarm.
+    15. Get to know about anything with start with command “tell me about”.
+    16. Google search.
+    17. Youtube search.
     18.	Getting random jokes.
-    19.	Opening website.
-    20.	Play/pause/stop songs.
-    21.	Handle volume decrease/increase.
-    22.	Wikipedia search.
-    23.	Weather information.
-    24.	Playing cat videos if the emotion is sad.
-    25.	Giving out news info.
-    26.	Converting text file into audio book.
-    27.	Task management.
-    28.	Vault management for password and keys security.
+    19. Opening website.
+    20. Play/pause/stop songs.
+    21. Handle volume decrease/increase.
+    22. Wikipedia search.
+    23. Weather information.
+    24. Playing cat videos if the emotion is sad.
+    25. Giving out news info.
+    26. Converting text file into audio book.
+    27. Task management.
+    28. Vault management for password and keys security.
 
 
 
