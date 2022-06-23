@@ -14,7 +14,7 @@ An advanced Ai chatbot with external multiple feature embedded.
     8. Make google Search
     9. Search and open video in youtube
     10. Real time covid stats
-    11. 1.	Chat with user.
+    11. Chat with user.
     12.	Setting alarm.
     13.	Reporting date and time.
     14.	Setting alarm.
@@ -63,7 +63,7 @@ Go to the project directory
 Install dependencies
 
 ```bash
-  $ pip install -r requirements.txt
+  $ pip install -r requirement.txt
 ```
 
 Start the server
