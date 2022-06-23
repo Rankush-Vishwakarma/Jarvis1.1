@@ -1,0 +1,64 @@
+{
+  "intent": [
+    {
+      "tag": "greetings",
+      "pattern": [  "hey", "hi", "good day", "what is up ","yo" ,"What is going on?","What is happening","Howdy"],
+      "responses": [ "hello!", "hey!", "what i can do for you", "how may i help you sirwhat " ,"yo! boi how are you","Oh, it's you rankush ! Hi there!","hey boi i am fine how you doing."]
+    },
+    {
+      "tag": "goodbye",
+      "pattern": [ "cya", "see you later", "see you", "goodbye", "have a good day", "bye","see ya","i miss you" ],
+      "responses": [ "Thankyou sir! bye", "sad to say good bye!", "we will meet soon sir! bye", "talk to you later sir! bye","Hahahahahaha!!.... bye","k bye","Why? I'm not dead yet!","Hello, police, someone weird is telling me that he misses me bye bro","Oh boy, I didn't realize I had that effect on people bye","And I miss you much! bye" ]
+    },
+    {
+      "tag": "age",
+      "pattern": [ "old", " old is rankush", "what is your age", "old are you", "age?"],
+      "responses": ["my owner rankush is 20 years old!", "20 year"]
+    },
+    {
+      "tag": "name",
+      "pattern": [ "what is your name", "what should i call you", "whats your name", "who are you", "can you tell me what is your name "],
+      "responses": [ "you can call me jarvis", "my name is jarvis","I am Jarvis","I am your virtual assistant jarvis! "]
+    },
+    {
+      "tag": "shoping",
+      "pattern": [ "I would like to buy something", "what should i buy ", "what can you recommend", "any new product launch"],
+      "responses": [ "Jarvis can help you buying the things from your favorite website like amazon, flipkart, myntra " ,"what would you like to buy i can search alot many things"]
+    },
+    {
+      "tag": "sad",
+      "pattern": [ "feeling sad", "feeling sad today ", " little worried", "upset today","stress","Down in the dumps","terrible","That sucks","Reduce to tears","Face like a wet weekend","it has been a rough week","Not so well"],
+      "responses": [ "I am here for you sir","What you like the most sir","I can help you in cheering up sir","I have got some jokes for you ","I think watching cat video can be very helpful in reducing the stress","Girlfriend to nhi bna li na bhai"]
+    },
+    {
+      "tag": "asking",
+      "pattern": [ "how are you jarvis", "how are you", "how you doing", "what about you","how is going everything","how do you do"],
+      "responses": ["Well, I haven’t died yet, so I guess that’s good", "Living a dream. Don't wake me up. You may join me. There's plenty of room","How am... in bed? (Wait, what?!)","Incredibly good looking","Physically? Mentally? Spiritually? Socioeconomically? Financially? I'm not sure how to answer that!?!","Badhiya hi hu","Jhakass hu bhai","I can't complain! It's against the Company Policy.","Not so well, does that bother you?","Can't complain. Nobody listens anyway","I don't know, you tell me. How am I right now?","Overworked and underpaid","I am fine, what about you","absolutely fantastic,how you doing","as always, very good,how are you? ","you have made me wonderful sir, how are you my boy ", "you have embedded some amazing functionalities in me sir, how are you"]
+    },
+    {
+      "tag": "deny",
+      "pattern": [ "no", "nope", "nhi","nothing", "sorry", "are yar", "abey yar", "nhi bhai", "rahne de bhai","tum bahut buri ho","mujhe tumahri awaj pasand nhi hai","nhi yr"],
+      "responses": [ "opps, so sorry","ok sir tell me another thing", "i can help you with other functionality","nhi sir I'm smart than google and alexa beacuase you have made me"]
+    },
+    {
+      "tag": "thank",
+      "pattern": [ "Thankyou"," Thanks!","I really appreciate it","You are the best","You rock","What would I do without you","sukriya janab","good","good job"],
+      "responses": [ "you are welcome", "no problem sir","not at all","do not mention it sir","it is no bother ","it's my pleasure sir","it is nothing sir "]
+    },
+    {
+      "tag": "compliment",
+      "pattern": [ "you are beautiful","you are handsome","you are sexy","You are the best","you are brilliant,","you smell good","you have a heart of gold","Your smile is contagious.","you are a candle in the darkness","You are strong","You are brave","You are an awesome friend","You look great today","You are glowing","You have cute elbows. For real","You are enough","You are wonderful"],
+      "responses": [ "it is tough being such a sex symbol","Don't worry—you'll get there . . . eventually.", "Ok, how much money do you need","You know what? I like you","Thank you! Please vote for me in the upcoming election.","Thanks; I woke up like this.","I love you!","Oh, such discerning eyes!","This is actually the result of me not taking a bath for weeks.","Shucks my hair!","You must be looking at a mirror.","Is that the best you’ve got?","I'm sorry, I couldn't quite hear you . . . could you please say that again?","Look who’s talking.","Just today? What about yesterday? ","Yeah, the genie finally granted my wish.","Thanks, I sacrificed many lives for it","Oh sorry, what? I was too busy thinking about how gorgeous I am","Awww . . . now I want to throw a rainbow at you"]
+    },
+    {
+      "tag": "User",
+      "pattern": [ "I am fine","Thanks for asking, I am doing well","things are good","i am good.","i am fine","pretty good","i am well","i am OK","not too bad","i have been better","just the same old","yeah, all right","very well, thanks","Nothing much","Nothing","You are enough","Like you, but better","i am doing really well","i am not sure yet","hmmm","k","ok"],
+      "responses": [ "HalChal ho gya ","hmmm","k","any next things","aur kuch","aur sunao"]
+    },
+    {
+      "tag": "flirt",
+      "pattern": [ "love you jarvis","Will you let me be the reason for your smile","Are you Google search engine? Because you’ve got everything I’ve been searching for in life","You are the one I wanted to find","I love you just the way you are","Tum oxygen ho aur main double hydrogen...hamari chemistry ek dum pani ki tarah hai","Mere dil, jigar, liver mein ho tum","waqt bewaqt aaye woh fever ho tum","ab toh meri life mein forever ho tum.","Are you French? Because Eiffel for you","Are you from Tennessee? Because you're the only 10 I see","I'm no photographer, but I can picture us together.","I want you jarvis","hey you","I am in love with you jarvis","do you love me","mujhse sadi karogi"],
+      "responses": [ "Bhai rahnde tumse na ho payega","abe sale kuch to sarm kr","chaliye suru karte hai","it is tough being such a sex symbol","Oh, such discerning eyes!","This is actually the result of me not taking a bath for weeks.","Shucks my hair!","You must be looking at a mirror.","Is that the best you’ve got?","I'm sorry, I couldn't quite hear you . . . could you please say that again?","Look who’s talking.","Just today? What about yesterday? ","Yeah, the genie finally granted my wish.","Thanks, I sacrificed many lives for it","Oh sorry, what? I was too busy thinking about how gorgeous I am","Awww . . . now I want to throw a rainbow at you","sorry! I have boyfriend","why? kyu? haye? nhi? mai mar gyi "]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "intent": [
+    {
+      "tag": "greetings",
+      "pattern": [ "hello", "hey", "hi", "good day", "greeting sir", "what's up sir","yo" ],
+      "responses": [ "hello!", "hey!", "what i can do for you", "how may i help you." ,"yo! boi how are you"]
+    },
+    {
+      "tag": "goodbye",
+      "pattern": [ "cya", "see you later", "see you", "goodbye", "have a good day", "bye","see ya" ],
+      "responses": [ "Thankyou sir!", "sad to say good bye!", "we will meet soon sir", "talk to you later sir!" ]
+    },
+    {
+      "tag": "age",
+      "pattern": [ "old", " old is rankush", "what is your age", "old are you", "age?"],
+      "responses": ["my owner rankush is 20 years old!", "20 year"]
+    },
+    {
+      "tag": "name",
+      "pattern": [ "what is your name", "what should i call you", "whats your name", "who are you", "can you tell me what is your name "],
+      "responses": [ "you can call me jarvis", "my name is jarvis","I am Jarvis","I am your virtual assistant jarvis! "]
+    },
+    {
+      "tag": "shoping",
+      "pattern": [ "I would like to buy something", "what should i buy ", "what can you recommend", "any new product launch"],
+      "responses": [ "Jarvis can help you buying the things from your favorite website like amazon, flipkart, myntra " ,"what would you like to buy i can search alot many things"]
+    },
+    {
+      "tag": "sad",
+      "pattern": [ "feeling sad", "feeling sad today ", " little worried", "upset today"],
+      "responses": [ "I am here for you sir","What you like the most sir","I can help you in cheering up sir","I have got some jokes for you "]
+    },
+    {
+      "tag": "asking",
+      "pattern": [ "how are you jarvis", "how are you", "how you doing", "what about you"],
+      "responses": [ "I am fine, what about you","absolutely fantastic,how you doing","as always, very good,how are you? ","you have made me wonderful sir, how are you my boy ", "you have embedded some amazing functionalities in me sir, how are you"]
+    },
+    {
+      "tag": "deny",
+      "pattern": [ "no", "nope", "nhi", "sorry"],
+      "responses": [ "opps, so sorry","ok sir tell me another thing", "i can help you with other functionality"]
+    },
+    {
+      "tag": "thank",
+      "pattern": [ "Thank you"," Thanks so much "," Thanks a lot ","Thanks a bunch. ", " Thanks a ton. "," Thanks!","I really appreciate it","You’re the best","You rock","What would I do without you"],
+      "responses": [ "you are welcome", "no problem sir","not at all","do not mention it sir","it is no bother ","it is my pleasure sir","it is nothing sir "]
+    }
+  ]
+}
