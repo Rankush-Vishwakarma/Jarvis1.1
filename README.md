@@ -5,33 +5,29 @@ An advanced Ai chatbot with external multiple feature embedded.
  #### This jarvis is capable to do:
  
     1. Wish you according to day time 
-    2. Report time and date
-    3. Send email
-    4. Open any website
-    5. Search and read wikipedia article
-    6. Tell you some jokes
-    7. taking the screenshot
-    8. Make google Search
-    9. Search and open video in youtube
-    10. Real time covid stats
-    11. Chat with user.
-    12. Setting alarm.
-    13. Reporting date and time.
-    14. Setting alarm.
-    15. Get to know about anything with start with command “tell me about”.
-    16. Google search.
-    17. Youtube search.
-    18.	Getting random jokes.
-    19. Opening website.
-    20. Play/pause/stop songs.
-    21. Handle volume decrease/increase.
-    22. Wikipedia search.
-    23. Weather information.
-    24. Playing cat videos if the emotion is sad.
-    25. Giving out news info.
-    26. Converting text file into audio book.
-    27. Task management.
-    28. Vault management for password and keys security.
+    2. Send email
+    3. Search and read wikipedia article
+    4. Tell you some jokes
+    5. taking the screenshot
+    6. Search and open video in youtube
+    7. Real time covid stats
+    8. Chat with user.
+    9. Setting alarm.
+    10. Reporting date and time.
+    11. Setting alarm.
+    12. Get to know about anything with start with command “tell me about”.
+    13. Google search.
+    14. Youtube search.
+    15. Opening website.
+    16. Play/pause/stop songs.
+    17. Handle volume decrease/increase.
+    18. Wikipedia search.
+    19. Weather information.
+    20. Playing cat videos if the emotion is sad.
+    21. Giving out news info.
+    22. Converting text file into audio book.
+    23. Task management.
+    24. Vault management for password and keys security.
 
 
 
