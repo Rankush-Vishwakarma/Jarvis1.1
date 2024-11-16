@@ -1,5 +1,5 @@
 # Jarvis1.1
-An advanced Ai chatbot with external multiple feature embedded. 
+Jarvis1.1 is an advanced AI chatbot with multiple embedded external features. It is capable of performing a wide range of tasks, including wishing users based on the time of day, sending emails, searching and reading Wikipedia articles, telling jokes, taking screenshots, searching and opening YouTube videos, providing real-time COVID-19 statistics, chatting with users, setting alarms, reporting the date and time, providing information on various topics, performing Google and YouTube searches, opening websites, playing and controlling music, providing weather information, and more.
 ## Features
 
  #### This jarvis is capable to do:
